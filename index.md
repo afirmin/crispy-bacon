@@ -1,4 +1,4 @@
-## Welcome to Ant's Blog
+## Welcome to Ant's "Crispy Bacon" Tech Blog
 
 
 Yes, ANOTHER tech blog but I also plan on launching a youtube channel too which will work hand in hand with this blog.
@@ -22,3 +22,7 @@ I will be totally honest, I am not sure what the plan is at the moment, well, I 
 ### The Timescales
 
 One of those post-it notes sugegsts one video a week - achievable? We shall see!
+
+### About me...
+
+I work in DevSecOps so.... this will be a significant theme of the blog!
