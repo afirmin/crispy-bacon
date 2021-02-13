@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Ant's Blog
 
-You can use the [editor on GitHub](https://github.com/afirmin/crispy-bacon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yes, ANOTHER tech blog but I also plan on launching a youtube channel too which will work hand in hand with this blog.
 
-### Markdown
+### A bit of repository code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to download my coding schizzle then use this to download it...
+(you may want to download and install 'git' first!)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+mkdir ants-code
+cd ants-code
+git init
+git clone git@github.com:afirmin/demo-repo.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### The Plan
 
-### Jekyll Themes
+I will be totally honest, I am not sure what the plan is at the moment, well, I do have a plan but it is on a pile of post it notes and I really need a Trello board for it all!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afirmin/crispy-bacon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### The Timescales
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+One of those post-it notes sugegsts one video a week - achievable? We shall see!
